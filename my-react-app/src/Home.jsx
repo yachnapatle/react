@@ -3,7 +3,9 @@ function Home(kuchbhi) {
  console.log(kuchbhi);
   return (
     
-    <div id="first">Home {kuchbhi.a}</div>
+    <div id="first">Home {kuchbhi.a}
+    <h1>fgvhbnjm</h1>
+    </div>
   )
 }
 
